@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Junon.
 
-<!--
-**junon-txt/junon-txt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Writer** | 🖥️ **I work as a dev in my free time** | 🌍 **Storyteller**
 
-Here are some ideas to get you started:
+### ✍️ **Currently writing:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇨🇳 **ZhōngGuó II**: (?).
+
+### 🔗 **Where to Find Me**
+- 📧 [Email Me](mailto:junon.txt@gmail.com)
+
+---
+
+✨ Let’s collaborate and bring ideas to life!
