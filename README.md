@@ -10,4 +10,4 @@
 
 ---
 
-✨ Let’s collaborate and bring ideas to life!
+✨
