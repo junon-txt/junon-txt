@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Junon.
 
-🎨 **Writer** | 🖥️ **I work as a dev in my free time** | 🌍 **Storyteller**
-
+🎨 **Writer** | 🖥️ **I work as a dev in my free time**
 ### ✍️ **Currently writing:** 
 
 - 🇨🇳 **ZhōngGuó II**: (?).
