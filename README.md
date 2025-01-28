@@ -6,7 +6,7 @@
 - 🇨🇳 **ZhōngGuó II**: (?).
 
 ### 🔗 **Where to Find Me**
-- 📧 [Email Me](mailto:junon.txt@gmail.com)
+- 📧 [Email Me -> junon.txt@gmail.com](mailto:junon.txt@gmail.com)
 
 ---
 
