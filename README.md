@@ -10,4 +10,6 @@
 
 ---
 
+Profile picture: Takamine Kiyomaro & Gash Bell (高嶺清麿 & ガッシュ・ベル) drawn by [雷句誠](https://x.com/raikumakoto).
+
 ✨
