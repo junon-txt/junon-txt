@@ -3,7 +3,7 @@
 🎨 **Writer** | 🖥️ **I work as a dev in my free time**
 ### ✍️ **Currently writing:** 
 
-- 🇨🇳 **ZhōngGuó II**: (?).
+- 🇨🇳 [**ZhōngGuó II**](https://junon-txt.github.io/zhongguo-ii-pages/): (?).
 
 ### 🔗 **Where to Find Me**
 - 📧 [Email Me -> junon.txt@gmail.com](mailto:junon.txt@gmail.com)
