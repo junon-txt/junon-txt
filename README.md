@@ -1,4 +1,6 @@
-# Hi there! 👋 Everyone calls me Rob and I'm from 🇦🇷.
+# Hi there! 👋
+
+Everyone calls me Rob and I'm from 🇦🇷.
 
 🎨 **Writer** | 🖥️ **I work as a dev in my free time**
 ### ✍️ **Currently writing:** 
