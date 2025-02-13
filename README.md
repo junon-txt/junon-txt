@@ -6,6 +6,7 @@ Everyone calls me Rob and I'm from 🇦🇷.
 ### ✍️ **Currently writing:** 
 
 - 🇨🇳 [**ZhōngGuó II**](https://junon-txt.github.io/zhongguo-ii-pages/): (?).
+- 🇨🇳 [**China diary**](https://junon-txt.github.io/china-diary/): a brief diary I wrote while travelling with my father.
 
 ### 🔗 **Where to Find Me**
 - 📧 [Email Me -> junon.txt@gmail.com](mailto:junon.txt@gmail.com)
